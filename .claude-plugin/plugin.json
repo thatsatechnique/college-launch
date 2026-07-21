@@ -6,6 +6,8 @@
     "name": "College Launch contributors"
   },
   "license": "MIT",
+  "homepage": "https://github.com/thatsatechnique/college-launch",
+  "repository": "https://github.com/thatsatechnique/college-launch",
   "keywords": [
     "college",
     "financial-aid",
