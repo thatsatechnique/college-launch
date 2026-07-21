@@ -1,0 +1,15 @@
+{
+  "name": "college-launch",
+  "description": "Marketplace for the College Launch plugin — first-year-of-college operations and funding copilot.",
+  "owner": {
+    "name": "College Launch contributors"
+  },
+  "plugins": [
+    {
+      "name": "college-launch",
+      "source": "./",
+      "description": "An operations and funding copilot for a student's first year of college — onboarding questionnaire, document ingestion, aid-agnostic funding plans, deadline tracking.",
+      "license": "MIT"
+    }
+  ]
+}

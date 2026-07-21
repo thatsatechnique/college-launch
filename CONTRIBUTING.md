@@ -43,7 +43,7 @@ See `docs/adapter-authoring.md`. In short: the skills read/write a small set of 
 
 ## Testing a change
 
-Install the plugin in Cowork (or point Claude Code at the repo) and run it against `examples/synthetic-student.md`:
+Run the plugin locally with `claude --plugin-dir .` from your clone (after edits, `/reload-plugins` picks them up without restarting), and exercise it against `examples/synthetic-student.md`:
 
 - `onboard` should produce a full knowledge base from the example answers.
 - `ingest-document` should update it from a (fictional) bill or award letter.
