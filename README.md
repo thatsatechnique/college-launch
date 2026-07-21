@@ -37,6 +37,8 @@ It is **aid-agnostic** (grants, scholarships, loans, 529/ESA, veteran benefits, 
 4. Say **"college check-in"** any time for status and upcoming deadlines.
 
 By default, everything is stored as Markdown files in a folder you choose. If you'd rather keep it in Confluence, Notion, Google Drive, or SharePoint, tell Claude during onboarding and connect that tool — see `CONNECTORS.md`.
+It also lists optional complementary connectors (Canvas LMS, email) that pull deadlines
+and documents in from where the student already works.
 
 ## Privacy
 
