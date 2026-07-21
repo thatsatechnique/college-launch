@@ -8,6 +8,7 @@
     {
       "name": "college-launch",
       "source": "./",
+      "category": "productivity",
       "description": "An operations and funding copilot for a student's first year of college — onboarding questionnaire, document ingestion, aid-agnostic funding plans, deadline tracking.",
       "license": "MIT"
     }
