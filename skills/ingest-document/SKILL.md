@@ -1,6 +1,6 @@
 ---
 name: ingest-document
-description: Use when the user shares a college document and wants it captured — an aid or scholarship award letter, a tuition or student-account bill, a veteran/benefit certificate of eligibility, a degree audit or academic-requirements report, or a class schedule. Also triggers on "log this bill", "here's her award letter", "update from this degree audit", "add this schedule", "capture this". Parses the document, extracts the relevant facts, updates the knowledge base and funding plan, and surfaces any new to-dos.
+description: Use when the user shares a college document and wants it captured — an aid or scholarship award letter, a tuition or student-account bill, a veteran/benefit certificate of eligibility, a degree audit or academic-requirements report, or a class schedule. Also triggers on "log this bill", "here's their award letter", "update from this degree audit", "add this schedule", "capture this". Parses the document, extracts the relevant facts, updates the knowledge base and funding plan, and surfaces any new to-dos.
 ---
 
 # Ingest a college document

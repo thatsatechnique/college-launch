@@ -41,4 +41,4 @@ College Launch models and surfaces trade-offs so you can decide with the full pi
 
 ## License
 
-MIT — see the license field in `.claude-plugin/plugin.json`. Contributions welcome, especially new funding-source presets and knowledge-base adapters.
+MIT — see [LICENSE](LICENSE). Contributions welcome, especially new funding-source presets and knowledge-base adapters.
