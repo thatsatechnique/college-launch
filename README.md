@@ -24,14 +24,25 @@ It is **aid-agnostic** (grants, scholarships, loans, 529/ESA, veteran benefits, 
 
 ## Quickstart
 
-1. Install the plugin — in Claude Code (CLI or the desktop app's Code tab), run:
+1. Install the plugin:
+
+   - **Claude Cowork (desktop):** install it from the Claude plugin directory at
+     <https://claude.com/plugins/> — search for **"College Launch."**
+   - **Claude Code:**
+
+     ```
+     claude plugin marketplace add anthropics/claude-plugins-community
+     claude plugin install college-launch@claude-community
+     ```
+
+   **For development** — install straight from this repo:
 
    ```
    /plugin marketplace add thatsatechnique/college-launch
    /plugin install college-launch@college-launch
    ```
 
-   Or run it without installing — clone the repo, then start Claude Code pointed at it:
+   or clone it and run without installing:
 
    ```
    git clone https://github.com/thatsatechnique/college-launch.git
