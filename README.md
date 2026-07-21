@@ -31,7 +31,12 @@ It is **aid-agnostic** (grants, scholarships, loans, 529/ESA, veteran benefits, 
    /plugin install college-launch@college-launch
    ```
 
-   Or run it straight from a clone without installing: `claude --plugin-dir ./college-launch`
+   Or run it without installing — clone the repo, then start Claude Code pointed at it:
+
+   ```
+   git clone https://github.com/thatsatechnique/college-launch.git
+   claude --plugin-dir ./college-launch
+   ```
 2. Say **"onboard"** (or "set up college planning"). Claude will ask a short set of questions and build your knowledge base.
 3. As things arrive, drop documents into the chat and say **"log this"** — the plan stays current.
 4. Say **"college check-in"** any time for status and upcoming deadlines.
