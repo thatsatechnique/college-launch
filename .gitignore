@@ -1,0 +1,37 @@
+# College Launch — never commit anyone's real data.
+# The plugin ships only templates, schemas, and the fictional example.
+
+# Real knowledge bases / personal data (if someone tests with local Markdown)
+private/
+knowledge-base/
+kb/
+*.local.md
+profile.yaml
+profile.yml
+profile.json
+
+# Personal documents dropped in for ingestion
+documents/
+uploads/
+*.pdf
+*.csv
+*.xlsx
+
+# OS / editor / tooling
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+node_modules/
+__pycache__/
+*.pyc
+
+# Build artifacts
+*.plugin
+dist/
+build/
+
+# local cleanup (safe to delete this folder)
+_to_delete/

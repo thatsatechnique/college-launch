@@ -1,0 +1,18 @@
+{
+  "name": "college-launch",
+  "version": "0.1.0",
+  "description": "An operations and funding copilot for a student's first year of college. Runs an onboarding questionnaire, ingests documents (aid letters, bills, benefit certificates, degree audits, schedules), allocates any mix of aid across each term, tracks deadlines and risks, and keeps a structured knowledge base in whatever tool you use.",
+  "author": {
+    "name": "College Launch contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "college",
+    "financial-aid",
+    "student",
+    "onboarding",
+    "planning",
+    "education",
+    "deadlines"
+  ]
+}
