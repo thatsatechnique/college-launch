@@ -47,7 +47,7 @@ and documents in from where the student already works.
 
 ## Privacy
 
-This plugin ships with **no personal data** — only templates, schemas, and one fully fictional example student. Your real information lives only in your chosen knowledge base, never in the plugin itself.
+This plugin ships with **no personal data** — only templates, schemas, and one fully fictional example student. Your real information lives only in your chosen knowledge base, never in the plugin itself. Full policy: [PRIVACY.md](PRIVACY.md).
 
 ## Not financial or legal advice
 
